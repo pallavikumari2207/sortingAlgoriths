@@ -1,6 +1,6 @@
 # sortingAlgoriths
 
-Insertion sort
+Insertion sort:                                                                                                                                                                                                                                                                                                                                                        
   Time complexity:
                   Best case : o(n), when array is already sorted.  e.g [8,9,10,11]
                   worst case :o(n^2), when array is in decending order  .e.g [11,10,9,8]
