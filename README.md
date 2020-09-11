@@ -8,4 +8,4 @@
                         o(1), in place sorting algorithm                                                                                                                              
         
 #### stablity : 
-Depends on implementaion ,here in code it is stable,but if we keep (arr[j]>=key) it will not be stable.
+             Depends on implementaion ,here in code it is stable,but if we keep (arr[j]>=key) it will not be stable.
